@@ -8,3 +8,8 @@ This is a sample readme file for our GitHub Example repo. We're learning Markdow
 
 ## Link Example
 [Amazon](https://www.amazon.com/)
+
+## List Example
+1. Item one
+2. Item two
+3. Item three
