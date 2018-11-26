@@ -6,3 +6,5 @@ This is a sample readme file for our GitHub Example repo. We're learning Markdow
 * Markdown is really fast
 * Pretty cool, right?
 
+## Link Example
+[Amazon](https://www.amazon.com/)
